@@ -3,9 +3,10 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+  <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>helloController</servlet-name>
-    <servlet-class>com.helloWorldServlet.controller.HelloController</servlet-class>
+    <servlet-class>com.helloWorld.controller.HelloController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>helloController</servlet-name>

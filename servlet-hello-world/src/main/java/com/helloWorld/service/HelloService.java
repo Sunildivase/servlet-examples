@@ -1,4 +1,4 @@
-package com.helloWorldServlet.service;
+package com.helloWorld.service;
 
 public class HelloService {
 
